@@ -1,0 +1,25 @@
+.button1 {
+    padding: 10px;
+    color: #2962ff;
+    background-color:white;
+}
+.button2 {
+    padding: 10px;
+    color: red;
+    background-color: wheat;
+}
+.button3 {
+    padding: 10px;
+    color: rgba(59, 4, 59, 0.767);
+    background-color: thistle;
+}
+a:active {
+ text-decoration: underline;
+ color: rgba(182, 189, 197, 0.904);
+}
+a:hover {
+    color: rgba(6, 65, 24, 0.829);
+}
+a:visited {
+    color: lightslategray;
+}
